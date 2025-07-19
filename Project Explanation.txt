@@ -1,0 +1,9 @@
+i used both paid version of LLM model and free version or open source LLM model in this chat application 
+i used langchain to put everything which is prompt, model,output in a sequence.
+and langsmith to monitor my application
+for that i used three different types of APIs openAI, llama2, and langsmith 
+to run llama2 in my locally on my machine i used ollama which is a tool.
+and i created virtual environment to set up my own installments in one place for my project locally.
+so if we want to install anything we need to install it in venv\scripts\activate
+and put all my APIs in secrets.env file 
+amd run everything in streamlit.
